@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Data Structures & Algorithms (DSA), alongside Advanced RAG architectures and real-time Computer Vision pipelines<br> I’m looking to collaborate on Open-source GenAI tools, Agentic AI frameworks, and Computer Vision projects<br> I’m currently learning LangChain, Agentic AI orchestration, and cloud-native deployment<br> Ask me about RAG pipelines, NLP feature engineering, building custom Unix shells in Python, and MediaPipe/OpenCV gesture tracking<br>⚡ Fun fact I built an interactive POSIX Unix shell completely in Python, and I run at least 5km every single day to keep my mind as optimized as my code!
+> I’m currently working on Data Structures & Algorithms (DSA), alongside Advanced RAG architectures and real-time Computer Vision pipelines<br>> I’m looking to collaborate on Open-source GenAI tools, Agentic AI frameworks, and Computer Vision projects<br>> I’m currently learning LangChain, Agentic AI orchestration, and cloud-native deployment<br>> Ask me about RAG pipelines, NLP feature engineering, building custom Unix shells in Python, and MediaPipe/OpenCV gesture tracking<br>> Fun fact I built an interactive POSIX Unix shell completely in Python, and I run at least 5km every single day to keep my mind as optimized as my code!
 
 
 ##  Socials:
